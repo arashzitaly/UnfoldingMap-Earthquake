@@ -1,2 +1,4 @@
 # UnfoldingMap-Earthquake
-The UCSD Earthquake Project
+The UCSD Earthquake Project using UnfoldingMaps
+
+##
